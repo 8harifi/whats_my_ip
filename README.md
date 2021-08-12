@@ -1,4 +1,4 @@
-# lizard_made_whats_my_ip
+# whats_my_ip
 
 just run it without any argument and any input
 
